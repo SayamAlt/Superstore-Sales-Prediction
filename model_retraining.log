@@ -1,0 +1,12 @@
+2024-02-05 01:33:57,052 - model_retraining - INFO - Evaluation metrics - R2 Score: 1.00, Mean Absolute Error: 3.98, Mean Squared Error: 760.08, Mean Absolute Percentage Error: 0.01, Root Mean Squared Error: 27.57
+2024-02-05 01:36:07,616 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.94, Mean Absolute Error: 19.89, Mean Squared Error: 18852.04, Mean Absolute Percentage Error: 0.12, Root Mean Squared Error: 137.30
+2024-02-05 01:39:36,939 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.99, Mean Absolute Error: 5.41, Mean Squared Error: 3405.95, Mean Absolute Percentage Error: 0.01, Root Mean Squared Error: 58.36
+2024-02-05 01:40:35,417 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.92, Mean Absolute Error: 22.71, Mean Squared Error: 25827.47, Mean Absolute Percentage Error: 0.11, Root Mean Squared Error: 160.71
+2024-02-05 01:42:09,756 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.99, Mean Absolute Error: 5.67, Mean Squared Error: 4096.53, Mean Absolute Percentage Error: 0.02, Root Mean Squared Error: 64.00
+2024-02-05 01:42:29,912 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.99, Mean Absolute Error: 5.89, Mean Squared Error: 4192.49, Mean Absolute Percentage Error: 0.01, Root Mean Squared Error: 64.75
+2024-02-05 01:43:09,365 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.99, Mean Absolute Error: 5.44, Mean Squared Error: 3398.47, Mean Absolute Percentage Error: 0.01, Root Mean Squared Error: 58.30
+2024-02-05 01:43:49,312 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.92, Mean Absolute Error: 22.31, Mean Squared Error: 26597.60, Mean Absolute Percentage Error: 0.11, Root Mean Squared Error: 163.09
+2024-02-05 01:43:51,836 - model_retraining - INFO - Mean Cross Validation Performance of Extra Trees Regressor: 97.0%
+2024-02-05 01:46:00,657 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.99, Mean Absolute Error: 5.17, Mean Squared Error: 2967.14, Mean Absolute Percentage Error: 0.01, Root Mean Squared Error: 54.47
+2024-02-05 01:46:44,615 - model_retraining - INFO - Evaluation metrics - R2 Score: 0.98, Mean Absolute Error: 8.13, Mean Squared Error: 7316.57, Mean Absolute Percentage Error: 0.03, Root Mean Squared Error: 85.54
+2024-02-05 01:46:47,064 - model_retraining - INFO - Mean Cross Validation Performance of Extra Trees Regressor: 97.0%

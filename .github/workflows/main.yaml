@@ -21,6 +21,12 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt  
       
+    - name: Re-train model on every push
+      run: python retrain.py  
+    
+    - name: Test model on custom inputs
+      run: pytest -p no:cacheprovider --disable-warnings
+
     - name: Build Docker image
       run: |
         docker build -t superstore_sales_predictor:latest .

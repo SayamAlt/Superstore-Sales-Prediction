@@ -1,0 +1,11 @@
+2024-02-05 02:10:21,502 - tests/model_testing - INFO - The model's prediction didn't match with the expected output.
+2024-02-05 02:25:13,095 - tests/model_testing - INFO - Difference between predicted and expected sales: 514.30
+2024-02-05 02:25:13,129 - tests/model_testing - INFO - Difference between predicted and expected sales: 674.98
+2024-02-05 02:25:13,155 - tests/model_testing - INFO - Difference between predicted and expected sales: 468.50
+2024-02-05 02:25:13,178 - tests/model_testing - INFO - Difference between predicted and expected sales: 1.55
+2024-02-05 02:25:13,207 - tests/model_testing - INFO - Difference between predicted and expected sales: 0.92
+2024-02-05 02:29:59,241 - tests/model_testing - INFO - Difference between predicted and expected sales: 514.30
+2024-02-05 02:29:59,287 - tests/model_testing - INFO - Difference between predicted and expected sales: 674.98
+2024-02-05 02:29:59,322 - tests/model_testing - INFO - Difference between predicted and expected sales: 468.50
+2024-02-05 02:29:59,355 - tests/model_testing - INFO - Difference between predicted and expected sales: 1.55
+2024-02-05 02:29:59,394 - tests/model_testing - INFO - Difference between predicted and expected sales: 0.92
