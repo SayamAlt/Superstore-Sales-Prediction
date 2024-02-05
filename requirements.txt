@@ -6,3 +6,4 @@ numpy
 pandas
 feature-engine
 pytest
+openpyxl
