@@ -66,9 +66,12 @@ jobs:
 
     - name: Install dependencies
       run: pip install -r requirements.txt  
-      
-    - name: Set up Docker Buildx
-      uses: docker/setup-buildx-action@v1
+
+    - name: Re-train model on every push
+      run: python retrain.py  
+    
+    - name: Test model on custom inputs
+      run: pytest -p no:cacheprovider --disable-warnings
       
     - name: Build the Docker image
       run: docker build . -t superstore-sales-predictor:latest
