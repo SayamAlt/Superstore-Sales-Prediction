@@ -1,3 +1,3 @@
 config.env
-deploy ML model on Azure.ipynb
+ML Model Deployment on Azure as an API.ipynb
 score.py
